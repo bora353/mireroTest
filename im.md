@@ -1,1 +1,2 @@
 gaeun.lee
+Gyeongmin.Seok
